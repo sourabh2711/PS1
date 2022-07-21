@@ -4,4 +4,8 @@ Later, we created the model using tensorflow and keras environment and the model
 After training and testing, the model was able to achieve an accuracy of 89%.
 This was it for the Deep Learning part, next we deployed this code on a webapp using gradio platform which provides very user friendly interface wherein the user just has to provide an image as an input and the output will be its predicted class.\
 
-To run the code
+To run the code, if you do not have python installed in your system you can run the code on **Google Colab** platform. 
+
+Here's the link : https://colab.research.google.com/drive/1NVQ3Zod_9R8KG-bYDHcPDU49ARfxAGqV?usp=sharing
+
+To run the individual cells, press **Shift+Enter** and it will execute. Please note that training a model might take around *30-45 minutes*, so please be patient.
