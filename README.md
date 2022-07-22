@@ -11,4 +11,4 @@ Here's the link to the final code on Google colab platform : https://colab.resea
 
 To run the individual cells, press **Shift+Enter** and it will execute. 
 
-Please note that training a model might take around *30-45 minutes* if you are using **GPU** but it might take around an *hour or hour and a half*
+Please note that training a model might take around *30-45 minutes* if you are using **GPU** but it might take around an *hour or hour and a half* if using **CPU**
