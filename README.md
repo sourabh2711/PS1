@@ -9,4 +9,6 @@ To run the code, if you do not have python installed in your system you can run 
 
 Here's the link to the final code on Google colab platform : https://colab.research.google.com/drive/1NVQ3Zod_9R8KG-bYDHcPDU49ARfxAGqV?usp=sharing
 
-To run the individual cells, press **Shift+Enter** and it will execute. Please note that training a model might take around *30-45 minutes*
+To run the individual cells, press **Shift+Enter** and it will execute. 
+
+Please note that training a model might take around *30-45 minutes* if you are using **GPU** but it might take around an *hour or hour and a half*
